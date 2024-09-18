@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ceaxl.github.io/bXl/sitemap.bXl.gz
